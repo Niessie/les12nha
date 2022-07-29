@@ -1,0 +1,76 @@
+body {
+background-color: #00E3E3;
+color: black;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 15px;
+}
+
+table {
+  width: 50%;
+  height: 50%;
+  border-style: groove; 15px;
+  border-color: black;
+}
+
+p {
+  font-size: 16px;
+  color:  fuchsia;
+}
+
+h1 {
+  color: fuchsia;
+}
+
+li {
+  color: fuchsia;
+}
+
+h3 {
+  color: fuchsia;
+}
+
+a:hover {
+  color: fuchsia;
+}
+
+
+.kleurtje {
+  background-color: #80FFE1;
+}
+
+
+footer {
+  color: black;
+}
+
+#cel1 {
+  background-color: #F1F527;
+}
+
+#cel3 {
+  background-color: #9FF527;
+}
+
+#cel5 {
+  background-color: #00E4F5;
+}
+
+#cel7 {
+  background-color: #2791F5;
+}
+
+#cel9 {
+  background-color: #B708C7;
+}
+
+#cel11 {
+  background-color: #C7085E;
+}
+
+#cel13 {
+  background-color: #FF714A;
+}
+
+#cel15 {
+  background-color: #F71432;
+}
